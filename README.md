@@ -8,7 +8,7 @@ This repository consists of true random number generation using Random.org API (
 
 RANDOM.ORG offers true random numbers to anyone on the Internet. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs. People use RANDOM.ORG for holding drawings, lotteries and sweepstakes, to drive online games, for scientific applications and for art and music.
 
-###GenerateRandom.py
+### GenerateRandom.py
 
 This file generates the true random numbers in Integer or Hex format. User can also specify the range in which he/she wants to generate the random number
 
@@ -27,7 +27,7 @@ example:
     Generated random number in hex is: 1196ff50
     
 
-###generateRSAKeyPair.py
+### generateRSAKeyPair.py
 
 This script generates the simple RSA pair using below mentioned dalgorithm
 
